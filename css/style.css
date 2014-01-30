@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #606060;
+}
+
+header li
+{
+    display: inline-block;
+	vertical-align: bottom;
+}
+
+
+
+div#button
+{
+    height: 400px;
+    width: 400px;
+	background: url(image/log.jpg);
+}
+
+div#button a:hover
+{
+    height: 400px;
+    width: 400px;
+	background: url(image/log_push.jpg);
+}
